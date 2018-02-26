@@ -1,0 +1,9 @@
+.box
+{
+	border-top = 4px;
+	border-left= 4px;
+	border-right= 4px;
+	width: calc(100% - 8px);
+	height: calc(100vh - 80px);
+	background-color: black;
+}
